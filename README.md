@@ -12,21 +12,21 @@ hardware DIY
 
 - **screen-128x64**  
   script Python para manejar pantallas pequeñas (128×64) en Raspberry Pi.  
-  👉 https://github.com/zero-volts/screen-128x64 :contentReference[oaicite:2]{index=2}
+  👉 https://github.com/zero-volts/screen-128x64 
 
 - **zerovolts-ui**  
   UI en C usando LVGL 
-  👉 https://github.com/zero-volts/zerovolts-ui :contentReference[oaicite:3]{index=3}
+  👉 https://github.com/zero-volts/zerovolts-ui 
 
 - **ir**  
   Código y configuración para **IR receiver/transmitter** con Raspberry Pi.  
-  👉 https://github.com/zero-volts/ir :contentReference[oaicite:4]{index=4}
+  👉 https://github.com/zero-volts/ir 
 
 ### 🔸 Exploit / Tools
 
 - **pi-hid-keyboad**  
   Configuración para que una **Raspberry Pi actúe como teclado HID (BadUSB)**.  
-  👉 https://github.com/zero-volts/pi-hid-keyboad :contentReference[oaicite:5]{index=5}
+  👉 https://github.com/zero-volts/pi-hid-keyboad 
 
 ---
 
