@@ -16,7 +16,12 @@ hardware DIY
 
 - **zerovolts-ui**  
   UI en C usando LVGL 
-  👉 https://github.com/zero-volts/zerovolts-ui 
+  👉 https://github.com/zero-volts/zerovolts-ui
+
+- **tactile-switch**  
+  Configuracion de botones switch para interactuar con la raspberry
+  
+  👉 https://github.com/zero-volts/tactile_switch
 
 - **ir**  
   Código y configuración para **IR receiver/transmitter** con Raspberry Pi.  
