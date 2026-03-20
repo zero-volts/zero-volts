@@ -25,7 +25,11 @@ hardware DIY
 
 - **ir**  
   Código y configuración para **IR receiver/transmitter** con Raspberry Pi.  
-  👉 https://github.com/zero-volts/ir 
+  👉 https://github.com/zero-volts/ir
+
+- **Zerovolts "custom firmware" - ESP32**  
+Código para el esp32 tratando de hacer un firmware custom.  
+👉 https://github.com/zero-volts/zerovolts_firmware
 
 ### 🔸 Exploit / Tools
 
